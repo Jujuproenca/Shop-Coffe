@@ -7,7 +7,7 @@ Criei um README interativo para o meu perfil com uma abordagem visual e acolhedo
 - Estatísticas do GitHub com as linguagens mais utilizadas;
 - Um pequeno parágrafo contando um pouco sobre mim e meus interesses;
 - Link para o meu LinkedIn;
-- Um efeito de "onda" no topo e no rodapé que escolhi deixar na cor branca.
+- Um efeito de "onda" no topo e no rodapé.
 
 
 
@@ -15,11 +15,11 @@ Você pode verificar abaixo ele funcionando!
 
 <p align='center'>
   <a href="https://github.com/Jujuproenca?tab=repositories">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=270&section=header&text=Juliana%20Proença&fontSize=90&animation=fadeIn&fontAlignY=40.5&desc=Front-end%20Developer&descAlignY=63&descAlign=50"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=c1ffbd&height=270&section=header&text=Juliana%20Proença&fontSize=90&animation=fadeIn&fontAlignY=40.5&desc=Front-end%20Developer&descAlignY=63&descAlign=50"/>
   </a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines="Hi!+Juliana+here!";I'm+22+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fbffbd&size=35&center=true&vCenter=true&width=1000&lines="Hi!+Juliana+here!";I'm+22+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <br><br>
 ##
@@ -65,4 +65,4 @@ I'm currently studying Front-End Development and Graphic Design at UNIP (expecte
   <a href="https://www.linkedin.com/in/juliana-proença/"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c1ffbd&height=120&section=footer"/>
